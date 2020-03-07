@@ -1,0 +1,251 @@
+
+.card{
+width: 121px;
+height: 170px;
+border-radius: 7px;
+border: 3px solid white;
+float: left;
+background-color: #2A683F;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+-webkit-box-shadow: 0 0 5px 5px #08506C;
+-moz-box-shadow: 0 0 5px 5px #08506C;
+box-shadow: 0 0 5px 5px #08506C;
+margin-left: 10px;
+margin-top: 10px;
+}
+
+.hover:hover{
+    border: 6px solid white;
+    cursor: pointer
+}
+
+.ruka:hover{
+    border: 6px solid white;
+    cursor: pointer
+}
+.card-c-02 {
+   
+   background: url('karte.jpg') -80px -48px;
+}
+.card-c-03{
+    background: url('karte.jpg') -212px -48px;
+}
+.card-c-04{
+    background: url('karte.jpg') -344px -48px;
+}
+.card-c-05{
+    background: url('karte.jpg') -476px -48px;
+}
+.card-c-06{
+    background: url('karte.jpg') -608px -48px;
+}
+.card-c-07{
+    background: url('karte.jpg') -740px -48px;
+}
+.card-c-08{
+    background: url('karte.jpg') -874px -48px;
+}
+.card-c-09{
+    background: url('karte.jpg') -1005px -48px;
+}
+.card-c-10{
+    background: url('karte.jpg') -1138px -48px;
+}
+.card-c-11{
+    background: url('karte.jpg') -1270px -48px;
+}
+.card-c-12{
+    background: url('karte.jpg') -1402px -48px;
+}
+.card-c-14{
+    background: url('karte.jpg') -1535px -48px;
+}
+.card-c-98{
+    background: url('karte.jpg') -1667px -48px;
+}
+.card-c-99{
+    background: url('karte.jpg') -1800px -48px;
+}
+
+
+.card-t-02 {
+   
+   background: url('karte.jpg') -80px -233px;
+}
+.card-t-03{
+    background: url('karte.jpg') -212px -233px;
+}
+.card-t-04{
+    background: url('karte.jpg') -344px -233px;
+}
+.card-t-05{
+    background: url('karte.jpg') -476px -233px;
+}
+.card-t-06{
+    background: url('karte.jpg') -608px -233px;
+}
+.card-t-07{
+    background: url('karte.jpg') -740px -233px;
+}
+.card-t-08{
+    background: url('karte.jpg') -874px -233px;
+}
+.card-t-09{
+    background: url('karte.jpg') -1005px -233px;
+}
+.card-t-10{
+    background: url('karte.jpg') -1138px -233px;
+}
+.card-t-11{
+    background: url('karte.jpg') -1271px -234px;
+}
+.card-t-12{
+    background: url('karte.jpg') -1400px -233px;
+}
+.card-t-14{
+    background: url('karte.jpg') -1535px -235px;
+}
+.card-t-98{
+    background: url('karte.jpg') -1667px -234px;
+}
+.card-t-99{
+    background: url('karte.jpg') -1799px -235px;
+}
+
+
+.card-h-02 {
+   
+   background: url('karte.jpg') -80px -419px;
+}
+.card-h-03{
+    background: url('karte.jpg') -212px -419px;
+}
+.card-h-04{
+    background: url('karte.jpg') -344px -419px;
+}
+.card-h-05{
+    background: url('karte.jpg') -476px -419px;
+}
+.card-h-06{
+    background: url('karte.jpg') -608px -419px;
+}
+.card-h-07{
+    background: url('karte.jpg') -740px -419px;
+}
+.card-h-08{
+    background: url('karte.jpg') -874px -419px;
+}
+.card-h-09{
+    background: url('karte.jpg') -1005px -419px;
+}
+.card-h-10{
+    background: url('karte.jpg') -1138px -419px;
+}
+.card-h-11{
+    background: url('karte.jpg') -1271px -419px;
+}
+
+.card-h-12{
+    background: url('karte.jpg') -1403px -419px;
+}
+.card-h-14{
+    background: url('karte.jpg') -1535px -419px;
+}
+.card-h-98{
+    background: url('karte.jpg') -1667px -419px;
+}
+.card-h-99{
+    background: url('karte.jpg') -1799px -419px;
+}
+
+
+.card-p-02 {
+   
+   background: url('karte.jpg') -79px -605px;
+}
+.card-p-03{
+    background: url('karte.jpg') -212px -605px;
+}
+.card-p-04{
+    background: url('karte.jpg') -344px -605px;
+}
+.card-p-05{
+    background: url('karte.jpg') -477px -605px;
+}
+.card-p-06{
+    background: url('karte.jpg') -608px -605px;
+}
+.card-p-07{
+    background: url('karte.jpg') -742px -605px;
+}
+.card-p-08{
+    background: url('karte.jpg') -873px -605px;
+}
+.card-p-09{
+    background: url('karte.jpg') -1006px -605px;
+}
+.card-p-10{
+    background: url('karte.jpg') -1138px -605px;
+}
+.card-p-11{
+    background: url('karte.jpg') -1270px -605px;
+}
+
+.card-p-12{
+    background: url('karte.jpg') -1402px -605px;
+}
+.card-p-14{
+    background: url('karte.jpg') -1535px -605px;
+}
+.card-p-98{
+    background: url('karte.jpg') -1667px -605px;
+}
+.card-p-99{
+    background: url('karte.jpg') -1799px -605px;
+}
+
+.back-image{
+    background-image: url("front-bg-1.jpg");
+      background-position:center center;
+      background-size: cover;
+      height: 100vh;
+      width: 100%;
+}
+.spil{
+    float: right;
+}
+.desno{
+    float: right;
+}
+.talon{
+    padding: 20px;
+    -ms-transform: rotate(90deg); /* IE 9 */
+    -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
+    transform: rotate(90deg);
+}
+.ruka{
+     padding: 20px;
+    -ms-transform: rotate(90deg); /* IE 9 */
+    -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
+    transform: rotate(90deg);
+}
+
+.col-position{
+    height: 70px;
+}
+
+.spaa{
+    font-size: 30px;
+    color: #fff;
+}
+
+.spaa-1{
+    font-size: 30px;
+    color: #fff;
+    float: right;
+
+}
+.logo{
+    float: right;
+}
